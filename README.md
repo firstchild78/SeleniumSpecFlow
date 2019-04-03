@@ -2,9 +2,10 @@
 
 Create the test scenario to verify user's total number of bugs and average turnaround time.
 
-    1. Create a git branch
-    2. Create the automated script using BDD and WebDriver for above scenario
-    3. Once finished, create the pull request
+    1. Clone or fork this repository 
+    2. Create a git branch
+    3. Create the automated script using BDD and WebDriver for above scenario
+    4. Once finished, create the pull request
 
 # Note:
 API to get the list of the users
