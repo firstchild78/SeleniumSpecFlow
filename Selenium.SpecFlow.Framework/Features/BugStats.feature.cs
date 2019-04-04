@@ -96,6 +96,12 @@ namespace Selenium.SpecFlow.Framework.Features
 #line 5
 this.ScenarioInitialize(scenarioInfo);
             this.ScenarioStart();
+#line 7
+testRunner.Given("I have requested usernames", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+#line 8
+testRunner.When("I have passed them to the web UI", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line 9
+testRunner.Then("I will get total number of bugs", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             this.ScenarioCleanup();
         }
